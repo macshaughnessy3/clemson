@@ -10,3 +10,15 @@
 [submodule "ECE-8010"]
 	path = ECE-8010
 	url = https://github.com/macshaughnessy3/ECE-8010.git
+[submodule "ECE-8260"]
+	path = ECE-8260
+	url = https://github.com/macshaughnessy3/ECE-8260.git
+[submodule "ECE-8560"]
+	path = ECE-8560
+	url = https://github.com/macshaughnessy3/ECE-8560.git
+[submodule "ECE-8780"]
+	path = ECE-8780
+	url = https://github.com/macshaughnessy3/ECE-8780.git
+[submodule "ECE-8550"]
+	path = ECE-8550
+	url = https://github.com/macshaughnessy3/ECE-8550.git
