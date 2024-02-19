@@ -22,3 +22,6 @@
 [submodule "ECE-8550"]
 	path = ECE-8550
 	url = https://github.com/macshaughnessy3/ECE-8550.git
+[submodule "ECE-8790"]
+	path = ECE-8790
+	url = https://github.com/macshaughnessy3/ECE-8790.git
